@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés San Martin</h1>
-<h3 align="center">a passionate student about control systems, electronics, and low level programming.</h3>
+<h3 align="center">a passionate student about control systems and electronics.</h3>
 
 - 🔭 I’m currently working on **URCap development for Universal Robots applications.**
 
